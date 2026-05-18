@@ -34,7 +34,8 @@ This repository documents my daily learning, hands-on practice, projects, and pr
 
 | Day | Topic | Status |
 |-----|------|------|
-| 01 | DevOps Learning Plan | ✅ |
+| 01 | [DevOps Learning Plan](day-01/learning-plan.md) | ✅ |
+| 02 | [Linux Architecture and Process Management](day-02/linux-basics.md) | ✅ |
 
 ---
 
