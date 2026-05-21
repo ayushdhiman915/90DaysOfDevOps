@@ -37,6 +37,7 @@ This repository documents my daily learning, hands-on practice, projects, and pr
 | 01 | [DevOps Learning Plan](day-01/learning-plan.md) | ✅ |
 | 02 | [Linux Architecture and Process Management](day-02/linux-basics.md) | ✅ |
 | 03 | [Linux Commands Practice](day-03/linux-commands-cheatsheet.md) | ✅ Completed |
+| 04 | [Linux Processes and Services Practice](day-04/linux-practice.md) | ✅ Completed |
 
 ---
 
