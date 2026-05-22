@@ -38,6 +38,7 @@ This repository documents my daily learning, hands-on practice, projects, and pr
 | 02 | [Linux Architecture and Process Management](day-02/linux-basics.md) | ✅ Completed |
 | 03 | [Linux Commands Practice](day-03/linux-commands-cheatsheet.md) | ✅ Completed |
 | 04 | [Linux Processes and Services Practice](day-04/linux-practice.md) | ✅ Completed |
+| 05 | [Linux Troubleshooting Drill: CPU, Memory, and Logs](day-05/linux-practice.md) | ✅ Completed |
 
 ---
 
