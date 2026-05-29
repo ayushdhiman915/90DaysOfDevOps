@@ -40,7 +40,8 @@ This repository documents my daily learning, hands-on practice, projects, and pr
 | 04 | [Linux Processes and Services Practice](day-04/linux-practice.md) | ✅ Completed |
 | 05 | [Linux Troubleshooting Drill: CPU, Memory, and Logs](day-05/linux-practice.md) | ✅ Completed |
 | 06 | [Linux Fundamentals: Read and Write Text Files](day-06/linux-practice.md) | ✅ Completed |
-| 06 | [Linux File System Hierarchy & Scenario-Based Practice](day-07/linux-fs-and-scenarios.md) | ✅ Completed |
+| 07 | [Linux File System Hierarchy & Scenario-Based Practice](day-07/linux-fs-and-scenarios.md) | ✅ Completed |
+| 08 | [Cloud Server Setup: Docker, Nginx & Web Deployment](day-08/cloud-deployment.md) | ✅ Completed |
 
 ---
 
